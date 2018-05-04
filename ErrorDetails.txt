@@ -1,0 +1,6 @@
+TypeError: Sdk.formOnLoad is not a function
+    at eval (eval at RunHandlerInternal (https://werbowervasya1.crm.dynamics.com/form/ClientApiWrapper.aspx?ver=308597477:153:1), <anonymous>:1:5)
+    at RunHandlerInternal (https://werbowervasya1.crm.dynamics.com/form/ClientApiWrapper.aspx?ver=308597477:159:1)
+    at RunHandlers (https://werbowervasya1.crm.dynamics.com/form/ClientApiWrapper.aspx?ver=308597477:118:1)
+    at OnScriptTagLoaded (https://werbowervasya1.crm.dynamics.com/form/ClientApiWrapper.aspx?ver=308597477:233:1)
+    at https://werbowervasya1.crm.dynamics.com/form/ClientApiWrapper.aspx?ver=308597477:202:1
